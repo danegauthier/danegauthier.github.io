@@ -171,7 +171,8 @@ content:
 
   # - title: Beyond the Resume
   #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
+  #   content: 
+   # this will include new lines to allow paragraphs
   #     Outdoor enthusiast into wakesurfing, rollerblading, and hiking. Born in South Louisiana, living in Georgia since 2016
 
 # Footer
