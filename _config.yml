@@ -53,12 +53,12 @@ content:
     layout: list
     content:
       - layout: left
-        title: ProcareRX ()
+        title: ProcareRX (PC Connections)
         sub_title: 
         caption: 
         link: 
         quote:          
-        description: | 
+        description: 
            
       - layout: left
         title: Fisher & Phillips (CDW)
