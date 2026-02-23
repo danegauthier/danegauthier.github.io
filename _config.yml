@@ -25,8 +25,8 @@ linkedin_username: danegauthier
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
- Hey, I’m Dane. Over the past 15 years, I’ve worked in various End-User Support roles. 
+about_content: # this will include new lines to allow paragraphs
+ Hey, Im Dane. Over the past 15 years, Ive worked in various End-User Support roles. 
  Along the way, I developed skills in various Microsoft solutions such as Azure, AVD, and Intune/SCCM.
  I created this site to showcase technical projects and share more details about my professional background.
  
@@ -45,7 +45,7 @@ content:
         #    url: github.com/danegauthier/danegauthier.github.io
         quote: >
 
-        description: | # this will include new lines to allow paragraphs
+        description: # this will include new lines to allow paragraphs
          This website is built using a Jekyll theme and hosted as a static site on GitHub Pages.
          During development, I gained experience with HTML/CSS, GitHub commands and repository 
          management, and Docker for local testing. Link above to the GitHub repository.
@@ -67,7 +67,7 @@ content:
         link: 
         quote: >
           National law firm specializing in labor and employment law for employers 
-        description: | 
+        description:  
           Assisted in a hardware refresh project by transitioning employees and law partners from Windows 10 to Windows 11 laptops. Handled end-to-end data migrations, application installations, 
           and system configurations in line with standardized deployment protocols to deliver a seamless user experience. Prepared laptops using Autopilot pre-provisioning steps and decommissioned 
           outdated hardware. Escalated out-of-scope technical issues through the ticketing system to ensure prompt resolution by the appropriate support teams.
@@ -78,7 +78,7 @@ content:
         link: thyssenkrupp-materials-na.com
         quote: >
            Global supplier of materials for the manufacturing and construction industries 
-        description: | 
+        description:  
           Delivered second-level support for the Azure Virtual Desktop environment, resolving abnormal network connectivity, warehouse printer issues, and thin-client issues to minimize downtime. 
           Collaborated on patching host-pool virtual machines and rolling out software updates to increase system security and compliance across the AVD infrastructure. Designed and implemented a 
           host-pool utilization report that enabled accurate departmental invoicing and informed strategic resource planning.
@@ -89,7 +89,7 @@ content:
         link: conaservices.com
         quote: >
           Provides IT solutions for Coca-Cola bottlers in North America. 
-        description: | 
+        description: 
          Provided support for on-site and remote employees across all levels, addressing hardware, software, and office technology issues. Served as the primary Intune administrator, 
          leading device management initiatives such as Autopilot deployment, Windows 11 migrations via Feature Updates, and Microsoft LAPS implementation. Acted as the subject matter expert 
          for the Azure Virtual Desktop environment, serving as the final escalation point and driving improvements including host pool autoscaling, optimized VM sizing, automated software updates 
@@ -101,7 +101,7 @@ content:
         link: scientificgames.com
         quote: >
           Global leader in lottery games, casino technologies, and services for government-sponsored lotteries. 
-        description: |
+        description: 
           Provided Tier 3 technical support for the North America service desk, assisting onsite and remote employees with hardware, software, and office technology issues. 
           Played a key role in the company-wide Windows 10 migration by developing and supporting OSD migration processes within SCCM and guiding service desk teams through migration support. 
           Deployed Azure Virtual Desktop solutions to enable remote work during the pandemic and company divestiture, addressing hardware shortages by creating images and security policies for 
@@ -113,7 +113,7 @@ content:
         link: artivion.com
         quote: >
           Medical device company specializing in aortic disease treatments, including stent grafts, heart valves, and sealants. 
-        description: | 
+        description: 
          Supported hardware and software needs for onsite staff, sales teams, and European offices while expanding responsibilities to include administration of Office 365, SCCM, JAMF, 
          and Avaya phone systems. Led the transition from WDS to SCCM for Windows PC imaging by developing task sequences and packaging applications to ensure consistent deployment across 
          the hardware fleet. Played a key role in launching a Mac user-choice program by managing JAMF, establishing baseline processes, and migrating sales and executive teams from Windows 
@@ -125,7 +125,7 @@ content:
         link: ucb.com
         quote: 
           Global biopharmaceutical company focused on innovative medicines for severe immunology and neurology diseases.
-        description: | 
+        description: 
           Independently led a lease-end laptop refresh project replacing approximately 200 laptops. Migrated data and user settings, deploying user-assigned software, 
           and imaging through SCCM. Coordinated with employees to ensure a smooth transition. Provided new-hire orientations for corporate equipment to ensure smooth onboarding. 
           Delivered Level 2 on-site support for hardware, business applications, mobile devices, and desk relocations, managed asset management using BMC Helix ITSM.
@@ -135,7 +135,7 @@ content:
         caption: August 2015 - December 2015
         link: 
         quote: 
-        description: | 
+        description:  
          Windows XP to Windows 7 refresh project, Traveled to Walmart stores across South Louisiana to upgraded kiosks, pharmacy, and management workstations. 
          Supported technicians in following a replacement process, troubleshooting issues during migration, and escalating out-of-scope problems to the project team. 
          Completed post-migration tasks, including logging upgraded inventory and preparing replaced equipment for return to the project warehouse.
@@ -144,9 +144,9 @@ content:
         sub_title:  IT Specialist
         caption: July 2011 - February 2015
         link: cbm.technology
-        quote: |
+        quote: 
           Managed IT service provider in Breaux Bridge, LA 
-        description: | 
+        description:  
          Provided on-site and remote IT support across diverse sectors including government, sugar production, education, law enforcement, legal services, oil & gas, and retail. 
          Handled a wide range of technical issues from routine hardware and software troubleshooting to new PC setups, software deployments, network cabling, and full domain and Exchange migrations. 
          Maintained detailed work logs in ConnectWise to ensure accurate tracking and billing. Served as the dedicated onsite sysadmin for a major client, managing technical issues, projects, 
@@ -158,7 +158,7 @@ content:
         link: 
         quote: 
           Small  IT consulting company in Lafayette, LA
-        description: | 
+        description: 
          Started my IT support career providing on-site to clients across diverse industries, troubleshooting hardware and software issues, configuring new PCs, 
          and supporting network cabling jobs. Gained valuable experience managing Active Directory and Exchange, as well as network troubleshooting.
        
